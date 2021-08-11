@@ -69,4 +69,4 @@ It is always fun to work with both grid and flex layouts.
 
 -   Frontend Mentor - [@ovietom](https://www.frontendmentor.io/profile/ovietom)
 -   Twitter - [@Eivo_official](https://www.twitter.com/Eivo)
--   Linkedin - [Thompson Alfred](https://www.linkedin.com/in/thompson-alfred-5418b9174)
+-   Linkedin - [Thompson Alfred](https://www.linkedin.com/in/alfredthompsonovie)
